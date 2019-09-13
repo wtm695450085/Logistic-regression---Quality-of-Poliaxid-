@@ -1,7 +1,9 @@
-Quality of Poliaxid
-Estimation of the result of the empirical research with machine learning tools
+#Quality of Poliaxid
+#Estimation of the result of the empirical research with machine learning tools
 
-Part one: preliminary graphical analysis to research of coefficients dependence
+
+#Part one: preliminary graphical analysis to research of coefficients dependence
+
 Thanks using predictive and classification models for the area of machine learning tools is possible significant decrease cost of the verification laboratory research. 
 Costs of empirical verification are counted to the Technical cost of production. In production of some chemical active substantiation is necessary to lead laboratory empirical classification to allocate product to separated class of quality. This research can turn out very expensive. In the case of short runs of production, cost of this classification can make all production unprofitable. With the help can come machine learning tools, who can replace expensive laboratory investigation by theoretical judgment. Application of effective prediction model can decrease necessity of costly empirical research to the reasonable minimum. Manual classification would be made in special situation where mode would be ineffective or in case of checking process by random testing.
 Case study: laboratory classification of active chemical substance Poliaxid
